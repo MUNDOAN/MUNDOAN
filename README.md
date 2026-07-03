@@ -1,5 +1,4 @@
 
-
 ### ¡HOLA MUNDO, SOY ANGEL MUNDO! 🌎 👋
 
 Tengo 18 años y soy un desarrollador enfocado en el área de **FrontEnd** y **BackEnd**. Me apasiona aprender algo nuevo cada día y explorar el mundo de la programación en todas sus ramas, no solo en estas dos. Actualmente dedico muchísimo tiempo a seguir expandiendo mis conocimientos y a crear proyectos propios y colaborativos junto a mis amigos. ¡Me considero una persona muy sociable y disfruto un montón del trabajo en equipo!
