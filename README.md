@@ -1,20 +1,20 @@
 ![](https://komarev.com/ghpvc/?username=Birunthaban)
 
-### HOLA MUNDO, SOY ANGEL MUNDO🌎,
+### ¡HOLA MUNDO, SOY ANGEL MUNDO! 🌎 👋
 
-I'm a second year software engineering undergraduate at University of Kelaniya and I'm also following a applied statistics diploma at IASSL.
+Tengo 18 años y soy un desarrollador enfocado en el área de **FrontEnd** y **BackEnd**. Me apasiona aprender algo nuevo cada día y explorar el mundo de la programación en todas sus ramas, no solo en estas dos. Actualmente dedico muchísimo tiempo a seguir expandiendo mis conocimientos y a crear proyectos propios y colaborativos junto a mis amigos. ¡Me considero una persona muy sociable y disfruto un montón del trabajo en equipo!
 
-- ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- 🔭 I’m currently studying:
-	- Mobile Application Development 
-	- Web Application Development 
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Space, Philosophy, Science, anything that interests you.
+- ⚡ **Dato curioso:** Creo firmemente en que la constancia y la lógica siempre revelan un patrón y una solución clara, incluso en los problemas de código más caóticos y enredados.
+- 🔭 **Actualmente estoy enfocado en:** 
+	- Desarrollo Web (FrontEnd & BackEnd)
+	- Creación y diseño de landing pages y aplicaciones
+- 💡 **Me interesa:** Aprender sobre cualquier rama de la tecnología, optimización de código y nuevas herramientas de desarrollo.
+- 💬 **Hablemos de:** Programación, desarrollo web, diseño UI/UX, proyectos en equipo o cualquier idea interesante que quieras compartir.
 
-## My Skills Include
+## Mis Habilidades
 
-<h4> Languages </h4>
-<span> 
+<h4> Lenguajes </h4>
+<span>  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -23,46 +23,34 @@ I'm a second year software engineering undergraduate at University of Kelaniya a
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </span>
 
-<h4> Frameworks </h4>
+<h4> Frameworks & Librerías </h4>
 <span>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
-<h4> Databases </h4>
+<h4> Bases de Datos </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
-<h4> IDE </h4>
+<h4> IDEs & Editores </h4>
 <span>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-
-
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 </span>
 
-
-
-
-    
+<h4> Otras Herramientas y Tecnologías </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
+</span>
 
 <hr>
 <p align="center">
-   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
+   <i>El único modo de hacer un gran trabajo es amar lo que haces.</i>
    <br>
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/birunthaban-sarventhiran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:sbirunthaban007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@sbirunthaban007"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/S_Birunthaban"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
 </p>
-------
-Credits: [Birunthaban Sarventhiran](https://github.com/Birunthaban)
-
-Last Edited on: 28/01/2023
