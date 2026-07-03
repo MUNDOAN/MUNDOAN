@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Birunthaban)
+
 
 ### ¡HOLA MUNDO, SOY ANGEL MUNDO! 🌎 👋
 
