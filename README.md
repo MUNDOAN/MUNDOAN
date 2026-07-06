@@ -51,6 +51,6 @@ Tengo 18 años y soy un desarrollador enfocado en el área de **FrontEnd** y **B
    <br>
 <br>	
 <a target="_blank" href="mundoan28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-	<p>mundoan28@gmail.com</p>
+	<p align="center">mundoan28@gmail.com</p>
 <br>
 </p>
